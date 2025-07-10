@@ -1,5 +1,4 @@
 import { CivicAuthProvider } from "@civic/auth/react";
-import './App.css'
 import Dashboard from "./components/Dashboard";
 
 const civicClientId = import.meta.env.VITE_CIVIC_CLIENT_ID;
